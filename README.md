@@ -27,7 +27,6 @@ npm run dev
 ```
 
 ## API Endpoints
-### Health Check
 
 1. GET /
 - Description: Check if the server is running.
