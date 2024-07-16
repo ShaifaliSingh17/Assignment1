@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 import express from "express";
-//using fs 
+//using fs for storing data 
 import bodyParser from "body-parser";
 import fs from "fs";
 import rateLimit from "express-rate-limit";
